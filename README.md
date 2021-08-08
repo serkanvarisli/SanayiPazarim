@@ -1,2 +1,2 @@
 # Adım-2 Görevi -> SanayiPazarim 
-admin paneli email: admin@admin.com şifre: admin
+admin paneline giriş için email: admin@admin.com şifre: admin
